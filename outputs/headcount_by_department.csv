@@ -1,0 +1,26 @@
+batch_day,date,department,headcount
+day 1,2026-07-07,Finance,50
+day 1,2026-07-07,HR,41
+day 1,2026-07-07,IT,38
+day 1,2026-07-07,Marketing,37
+day 1,2026-07-07,Sales,34
+day 2,2026-07-08,Finance,47
+day 2,2026-07-08,HR,48
+day 2,2026-07-08,IT,35
+day 2,2026-07-08,Marketing,34
+day 2,2026-07-08,Sales,41
+day 3,2026-07-09,Finance,44
+day 3,2026-07-09,HR,48
+day 3,2026-07-09,IT,35
+day 3,2026-07-09,Marketing,36
+day 3,2026-07-09,Sales,38
+day 4,2026-07-10,Finance,41
+day 4,2026-07-10,HR,40
+day 4,2026-07-10,IT,41
+day 4,2026-07-10,Marketing,33
+day 4,2026-07-10,Sales,44
+day 5,2026-07-11,Finance,36
+day 5,2026-07-11,HR,45
+day 5,2026-07-11,IT,42
+day 5,2026-07-11,Marketing,26
+day 5,2026-07-11,Sales,47
