@@ -15,7 +15,7 @@ Process daily HR snapshot data, maintain complete employee history using **SCD T
 ```text
 Employee-Lifecycle-Attrition-Pipeline/
 ├── README.md
-├── notebooks/
+├── databricks_notebook/
 │   └── bronze_to_silver_to_gold.ipynb
 ├── outputs/
 │   ├── employee_history_log.csv
@@ -23,13 +23,13 @@ Employee-Lifecycle-Attrition-Pipeline/
 │   ├── headcount_by_department.csv
 │   ├── attrition_summary.csv
 │   └── tenure_summary.csv
-├── raw_datasets/
+├── Raw_Datasets/
 │   ├── day 1/
 │   ├── day 2/
 │   ├── day 3/
 │   ├── day 4/
 │   └── day 5/
-└── Employee Lifecycle & Attrition Analytics Pipeline Report.pdf
+└── Employee_Lifecycle_Attrition_Pipeline_Report.pdf
     └── (Project documentation with screenshots and summary)
 ```
 # Tech Stack
