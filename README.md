@@ -211,6 +211,5 @@ Created temporary views and generated business-ready analytical tables.
 - Implemented **SCD Type 2** efficiently using **Delta Lake MERGE** operations.
 - Built an end-to-end **Medallion Architecture (Bronze → Silver → Gold)** for scalable data processing.
 - Automated ingestion of nested directory structures using **Azure Data Factory** with wildcard and recursive file handling.
-- Learned secure credential management using **Databricks Secret Scope** instead of hardcoded secrets.
 - Implemented schema drift handling to make the pipeline more robust and production-ready.
 - Applied advanced Spark SQL techniques including **CTEs, Window Functions, JOINs, CASE statements, and Aggregations** to generate business-ready HR analytics.
